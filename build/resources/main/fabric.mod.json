@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "ktmcrafter",
+  "version": "1.0.0-SNAPSHOT",
+  "name": "KtmCrafter",
+  "description": "Mod for custom crafting recipes and custom GUI menu.",
+  "authors": [
+    "kotmir"
+  ],
+  "contact": {
+    "sources": "https://github.com/kotmir/KtmCrafter"
+  },
+  "license": "MIT",
+  "icon": "assets/ktmcrafter/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "tech.kotmir.customcrafter.KtmCrafter"
+    ],
+    "client": [
+      "tech.kotmir.customcrafter.client.KtmCrafterClient"
+    ]
+  },
+  "mixins": [
+    "ktmcrafter.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
