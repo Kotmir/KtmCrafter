@@ -1,9 +1,25 @@
+<div align="center">
+
 # KtmCrafter
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1%2B-green)
-![Loader](https://img.shields.io/badge/Loader-Fabric-success)
-![Java](https://img.shields.io/badge/Java-21-blue)
-![License](https://img.shields.io/badge/License-MIT-blue)
+<p>
+  <a href="https://www.minecraft.net">
+    <img src="https://img.shields.io/badge/Minecraft-1.21.11%2B-green" alt="Minecraft">
+  </a>
+  <a href="https://fabricmc.net">
+    <img src="https://img.shields.io/badge/Loader-Fabric-success" alt="Fabric">
+  </a>
+  <a href="https://www.oracle.com/java/">
+    <img src="https://img.shields.io/badge/Java-21-blue" alt="Java">
+  </a>
+  <a href="https://github.com/kotmir/KtmCrafter/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
+  </a>
+</p>
+
+</div>
+
+---
 
 **KtmCrafter** — это современный мод для Minecraft (загрузчик **Fabric**), который добавляет удобное внутриигровое меню выбора станций и полноценный графический редактор для создания кастомных рецептов прямо на лету.
 
